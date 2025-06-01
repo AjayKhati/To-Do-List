@@ -1,6 +1,26 @@
-## `Deployed Link` - 
+## `Deployed Link` - https://csi-todolistapp.netlify.app/
 
-## `App will not vanish its added task after refreshing the page; used local storage feature`
+## `✅ Features`
+
+Add Tasks – Create new to-do items quickly with an input box and add button.
+
+Keyboard Shortcut – Press `Enter` to add a task instantly.
+
+Capitalized Tasks – First letter of each task is auto-capitalized.
+
+Filter Tasks – Toggle between All, Active, and Completed views.
+
+Mark as Complete – Click checkboxes to mark tasks as done.
+
+Delete Tasks – Remove individual tasks using the delete (✕) button.
+
+Sort Tasks – Alphabetically sort tasks ascending or descending.
+
+Task Persistence – Saves tasks to `localStorage` so they persist across page reloads.
+
+Responsive Design – Clean, mobile-friendly layout.
+
+Custom Styled Checkboxes – Visually enhanced checkboxes with a custom checkmark.
 
 
 ## `SCREENSHOTS`
