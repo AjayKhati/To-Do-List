@@ -1,3 +1,33 @@
+## `Deployed Link` - 
+
+## `App will not vanish its added task after refreshing the page; used local storage feature`
+
+
+## `SCREENSHOTS`
+
+`Landing Page`
+![Screenshot (16)](https://github.com/user-attachments/assets/08a9d3fa-bdb7-4ffe-bc05-737db943fe41)
+
+`Task Adding`
+![Screenshot (17)](https://github.com/user-attachments/assets/7afc8633-ccb3-47f1-a3bb-acc8fd4c1aea)
+
+`All Tasks`
+![Screenshot (18)](https://github.com/user-attachments/assets/c42a9879-274d-497e-bd75-2bea3c99723f)
+
+`Completed Task`
+![Screenshot (19)](https://github.com/user-attachments/assets/761003bc-8ec5-4c7d-9103-83197323f7f9)
+
+`Active task by filtering feature`
+![Screenshot (20)](https://github.com/user-attachments/assets/391c4089-5da4-443e-b8f1-8f9a00d8e3e2)
+
+`Completed task by filtering feature`
+![Screenshot (21)](https://github.com/user-attachments/assets/3bdade03-c976-4913-ba73-02ea22344f5f)
+
+`Sorting task by sort button`
+![Screenshot (22)](https://github.com/user-attachments/assets/587a6398-0581-418b-aca2-fe5bfca39fb1)
+
+## `THANKS`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -27,44 +57,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
